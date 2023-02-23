@@ -6,8 +6,22 @@ verificar alteraçoes/ modificações
 git status
 
 
-
 // adidicionar arquivo  proxima versao
+git add nomedoarquivo.extensçao do arquivo
+
+// adidicionar arquivo alterados na proxima versao
+git add .
+
+// adicionar todos os arquivos a proxima versao
 gi commit -m "descriçãodo que foi alterado"
+
+
+// adicionar nnom e de usuario
+git config --global user.email "seuemail"
+
+* Obs: Provavelmente
+
+
+
 
 
