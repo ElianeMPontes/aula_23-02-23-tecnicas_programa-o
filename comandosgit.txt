@@ -1,0 +1,13 @@
+// iniciar um controle de versao 
+git init
+
+//
+verificar alteraçoes/ modificações
+git status
+
+
+
+// adidicionar arquivo  proxima versao
+gi commit -m "descriçãodo que foi alterado"
+
+
